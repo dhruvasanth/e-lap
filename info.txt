@@ -3,3 +3,4 @@ information about e-lap application
 this file has information
 
 it has three modules
+ those are admin ,customer,user modules
