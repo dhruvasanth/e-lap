@@ -3,4 +3,8 @@ information about e-lap application
 this file has information
 
 it has three modules
- those are admin ,customer,user modules
+
+those are admin ,customer,user modules
+ admin upload city names and rules.
+
+try to merge with master brancch
