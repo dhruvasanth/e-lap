@@ -2,6 +2,8 @@ information about e-lap application
 
 this file has information
 
+this is different from master branch
+
 it has three modules
 
 those are admin ,customer,user modules
